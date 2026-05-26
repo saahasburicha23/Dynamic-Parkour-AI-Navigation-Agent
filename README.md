@@ -1,4 +1,4 @@
-# Dynamic Parkour AI Nevigation Agent
+# Dynamic Parkour AI Navigation Agent
 
 
 Description:
